@@ -13,5 +13,3 @@ BuBot smart voice assistant.
 Thank you for using BuBot.
 
 Project by Arthur Stepanyan: https://github.com/ArthurStep.
-
-Support project: https://ko-fi.com/arthurstep.
