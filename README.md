@@ -7,8 +7,6 @@ BuBot smart voice assistant.
 * Username support.
 * Parent control.
 * Internet search by voice.
-* Open source.
-* Smart.
 
 Thank you for using BuBot.
 
