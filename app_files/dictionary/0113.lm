@@ -1,0 +1,221 @@
+Language model created by QuickLM on Wed Aug  9 06:39:12 EDT 2023
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 53 sentences and 51 words
+
+\data\
+ngram 1=51
+ngram 2=98
+ngram 3=49
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-2.2014 ADULT -0.2218
+-2.5024 ADULTS -0.2218
+-2.5024 ALL -0.2218
+-2.5024 ARE -0.2218
+-2.5024 ASKING -0.2218
+-2.5024 BUBOT -0.2218
+-2.5024 BYE -0.2218
+-2.2014 CHANGE -0.2218
+-2.5024 CHILD -0.2218
+-2.5024 DONT -0.2218
+-2.5024 EMERGENCY -0.2218
+-2.5024 FACEBOOK -0.2218
+-2.5024 FINE -0.2218
+-2.5024 FOR -0.2218
+-2.5024 GOODBYE -0.2218
+-2.5024 GOOGLE -0.2218
+-2.5024 HELLO -0.2218
+-2.5024 HI -0.2218
+-2.5024 HOW -0.2218
+-2.5024 IS -0.2218
+-2.5024 MADE -0.2218
+-2.5024 MESSAGE -0.2218
+-2.2014 NAME -0.2218
+-2.5024 NO -0.2218
+-2.5024 NOTHING -0.2218
+-2.5024 OPEN -0.2218
+-2.5024 PARENT -0.2218
+-2.5024 PARENTS -0.2218
+-2.5024 RESET -0.2218
+-2.5024 SEARCH -0.2218
+-2.5024 SEARCHING -0.2218
+-2.5024 SEND -0.2218
+-2.5024 SETTINGS -0.2218
+-2.5024 SHUT -0.2218
+-2.5024 SORRY -0.2218
+-2.5024 STOP -0.2218
+-2.5024 THANKS -0.2218
+-2.5024 TO -0.2218
+-2.5024 TOURISTBOT -0.2218
+-2.5024 UP -0.2218
+-2.5024 USER -0.2218
+-2.5024 WHAT -0.2218
+-2.5024 WHO -0.2218
+-2.5024 WIKIPEDIA -0.2218
+-2.5024 WORRY -0.2218
+-2.5024 YES -0.2218
+-2.2014 YOU -0.2218
+-2.5024 YOUR -0.2218
+-2.5024 YOUTUBE -0.2218
+
+\2-grams:
+-1.7243 <s> ADULT 0.0000
+-2.0253 <s> ADULTS 0.0000
+-2.0253 <s> ALL 0.0000
+-2.0253 <s> ARE 0.0000
+-2.0253 <s> ASKING 0.0000
+-2.0253 <s> BUBOT 0.0000
+-2.0253 <s> BYE 0.0000
+-1.7243 <s> CHANGE 0.0000
+-2.0253 <s> CHILD 0.0000
+-2.0253 <s> DONT 0.0000
+-2.0253 <s> EMERGENCY 0.0000
+-2.0253 <s> FACEBOOK 0.0000
+-2.0253 <s> FINE 0.0000
+-2.0253 <s> FOR 0.0000
+-2.0253 <s> GOODBYE 0.0000
+-2.0253 <s> GOOGLE 0.0000
+-2.0253 <s> HELLO 0.0000
+-2.0253 <s> HI 0.0000
+-2.0253 <s> HOW 0.0000
+-2.0253 <s> IS 0.0000
+-2.0253 <s> MADE 0.0000
+-2.0253 <s> MESSAGE 0.0000
+-1.7243 <s> NAME 0.0000
+-2.0253 <s> NO 0.0000
+-2.0253 <s> NOTHING 0.0000
+-2.0253 <s> OPEN 0.0000
+-2.0253 <s> PARENT 0.0000
+-2.0253 <s> PARENTS 0.0000
+-2.0253 <s> RESET 0.0000
+-2.0253 <s> SEARCH 0.0000
+-2.0253 <s> SEARCHING 0.0000
+-2.0253 <s> SEND 0.0000
+-2.0253 <s> SETTINGS 0.0000
+-2.0253 <s> SHUT 0.0000
+-2.0253 <s> SORRY 0.0000
+-2.0253 <s> STOP 0.0000
+-2.0253 <s> THANKS 0.0000
+-2.0253 <s> TO 0.0000
+-2.0253 <s> TOURISTBOT 0.0000
+-2.0253 <s> UP 0.0000
+-2.0253 <s> USER 0.0000
+-2.0253 <s> WHAT 0.0000
+-2.0253 <s> WHO 0.0000
+-2.0253 <s> WIKIPEDIA 0.0000
+-2.0253 <s> WORRY 0.0000
+-2.0253 <s> YES 0.0000
+-1.7243 <s> YOU 0.0000
+-2.0253 <s> YOUR 0.0000
+-2.0253 <s> YOUTUBE 0.0000
+-0.3010 ADULT </s> -0.3010
+-0.3010 ADULTS </s> -0.3010
+-0.3010 ALL </s> -0.3010
+-0.3010 ARE </s> -0.3010
+-0.3010 ASKING </s> -0.3010
+-0.3010 BUBOT </s> -0.3010
+-0.3010 BYE </s> -0.3010
+-0.3010 CHANGE </s> -0.3010
+-0.3010 CHILD </s> -0.3010
+-0.3010 DONT </s> -0.3010
+-0.3010 EMERGENCY </s> -0.3010
+-0.3010 FACEBOOK </s> -0.3010
+-0.3010 FINE </s> -0.3010
+-0.3010 FOR </s> -0.3010
+-0.3010 GOODBYE </s> -0.3010
+-0.3010 GOOGLE </s> -0.3010
+-0.3010 HELLO </s> -0.3010
+-0.3010 HI </s> -0.3010
+-0.3010 HOW </s> -0.3010
+-0.3010 IS </s> -0.3010
+-0.3010 MADE </s> -0.3010
+-0.3010 MESSAGE </s> -0.3010
+-0.3010 NAME </s> -0.3010
+-0.3010 NO </s> -0.3010
+-0.3010 NOTHING </s> -0.3010
+-0.3010 OPEN </s> -0.3010
+-0.3010 PARENT </s> -0.3010
+-0.3010 PARENTS </s> -0.3010
+-0.3010 RESET </s> -0.3010
+-0.3010 SEARCH </s> -0.3010
+-0.3010 SEARCHING </s> -0.3010
+-0.3010 SEND </s> -0.3010
+-0.3010 SETTINGS </s> -0.3010
+-0.3010 SHUT </s> -0.3010
+-0.3010 SORRY </s> -0.3010
+-0.3010 STOP </s> -0.3010
+-0.3010 THANKS </s> -0.3010
+-0.3010 TO </s> -0.3010
+-0.3010 TOURISTBOT </s> -0.3010
+-0.3010 UP </s> -0.3010
+-0.3010 USER </s> -0.3010
+-0.3010 WHAT </s> -0.3010
+-0.3010 WHO </s> -0.3010
+-0.3010 WIKIPEDIA </s> -0.3010
+-0.3010 WORRY </s> -0.3010
+-0.3010 YES </s> -0.3010
+-0.3010 YOU </s> -0.3010
+-0.3010 YOUR </s> -0.3010
+-0.3010 YOUTUBE </s> -0.3010
+
+\3-grams:
+-0.3010 <s> ADULT </s>
+-0.3010 <s> ADULTS </s>
+-0.3010 <s> ALL </s>
+-0.3010 <s> ARE </s>
+-0.3010 <s> ASKING </s>
+-0.3010 <s> BUBOT </s>
+-0.3010 <s> BYE </s>
+-0.3010 <s> CHANGE </s>
+-0.3010 <s> CHILD </s>
+-0.3010 <s> DONT </s>
+-0.3010 <s> EMERGENCY </s>
+-0.3010 <s> FACEBOOK </s>
+-0.3010 <s> FINE </s>
+-0.3010 <s> FOR </s>
+-0.3010 <s> GOODBYE </s>
+-0.3010 <s> GOOGLE </s>
+-0.3010 <s> HELLO </s>
+-0.3010 <s> HI </s>
+-0.3010 <s> HOW </s>
+-0.3010 <s> IS </s>
+-0.3010 <s> MADE </s>
+-0.3010 <s> MESSAGE </s>
+-0.3010 <s> NAME </s>
+-0.3010 <s> NO </s>
+-0.3010 <s> NOTHING </s>
+-0.3010 <s> OPEN </s>
+-0.3010 <s> PARENT </s>
+-0.3010 <s> PARENTS </s>
+-0.3010 <s> RESET </s>
+-0.3010 <s> SEARCH </s>
+-0.3010 <s> SEARCHING </s>
+-0.3010 <s> SEND </s>
+-0.3010 <s> SETTINGS </s>
+-0.3010 <s> SHUT </s>
+-0.3010 <s> SORRY </s>
+-0.3010 <s> STOP </s>
+-0.3010 <s> THANKS </s>
+-0.3010 <s> TO </s>
+-0.3010 <s> TOURISTBOT </s>
+-0.3010 <s> UP </s>
+-0.3010 <s> USER </s>
+-0.3010 <s> WHAT </s>
+-0.3010 <s> WHO </s>
+-0.3010 <s> WIKIPEDIA </s>
+-0.3010 <s> WORRY </s>
+-0.3010 <s> YES </s>
+-0.3010 <s> YOU </s>
+-0.3010 <s> YOUR </s>
+-0.3010 <s> YOUTUBE </s>
+
+\end\
