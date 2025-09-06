@@ -10,4 +10,10 @@ BuBot smart voice assistant.
 
 Thank you for using BuBot.
 
-Project by Arthur Stepanyan: https://github.com/ArthurStep.
+## 👨‍💻 Author
+
+**Arthur Stepanyan**
+- GitHub: [ArthurStep](https://github.com/ArthurStep)
+- Version: 2.0
+
+*Built with ☕ and lots of strategic thinking!*
